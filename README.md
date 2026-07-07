@@ -23,7 +23,7 @@ The objective is to identify sales trends, investigate the root cause of Enterpr
 
 ## Product Performance
 
-![Product_Performance](Product_Performance .png)
+![Product_Performance](Product_Performance.png)
 
 ## Root Cause Analysis
 
