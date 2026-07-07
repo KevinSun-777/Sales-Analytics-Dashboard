@@ -17,8 +17,8 @@ The objective is to identify sales trends, investigate the root cause of Enterpr
 
 ---
 
-## Dashboard Preview
 ## Executive Dashboard
+
 ![Executive Dashboard](Images/Executive_Dashboard.png)
 
 ## Product Performance
