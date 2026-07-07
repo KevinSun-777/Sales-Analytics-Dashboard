@@ -19,15 +19,15 @@ The objective is to identify sales trends, investigate the root cause of Enterpr
 
 ## Dashboard Preview
 ## Executive Dashboard
-![Executive_Dashboard](Executive_Dashboard.png)
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
 ## Product Performance
 
-![Product_Performance](Product_Performance.png)
+![Product Performance](Images/Product_Performance.png)
 
 ## Root Cause Analysis
 
-![Root Cause Analysis](Root_Cause_Analysis.png)
+![Root Cause Analysis](Images/Root_Cause_Analysis.png)
 
 ## Key Findings
 
